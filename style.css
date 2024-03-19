@@ -70,3 +70,18 @@ body {
     color: #F6F6F6;
     font-family: "Montserrat", sans-serif;
 }
+
+.apresentacao__links__link:hover {
+    background-color: #272727;
+    padding: 3%;
+}
+
+.rodape {
+    padding: 24px;
+    color: #000000;
+    background-color: #22D4FD;
+    text-align: center;
+    font-family: 'Monteserrat', sans-serif;
+    font-size: 24px;
+    font-weight 400;
+}
